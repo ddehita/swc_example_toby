@@ -1,0 +1,2 @@
+#Hace que git ignore el directorio o una carpeta concreta porque no te interesa que sea subida a github (ejemplo, datos)
+adirectory
