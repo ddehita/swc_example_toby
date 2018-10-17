@@ -5,6 +5,7 @@ Quick Markdown Overview
 
 - write bullet lists with '-'
 - create **bold text** with **
+- create _italic_ with '_'
 - include [links](https://embl.de) with [] and ()
 
 
