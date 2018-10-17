@@ -1,5 +1,5 @@
 # swc_example_toby
-- An example project for the Git lesson of EMBL Software Carpentry
+- An amazingly great example project for the Git Lesson of EMBL Software Carpentry
 
 Quick Markdown Overview
 
