@@ -1,5 +1,5 @@
 # swc_example_toby
-- An amazingly great example project for the **Git** _Lesson_ of EMBL Software `Carpentry`
+- An ~amazingly~ _great example_ project for the **~Git~** _Lesson_ of EMBL Software `Carpentry`
 
 Quick Markdown Overview
 
