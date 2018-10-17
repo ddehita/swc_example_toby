@@ -7,6 +7,7 @@ Quick Markdown Overview
 - create **bold text** with **
 - create _italic_ with '_'
 - include [links](https://embl.de) with [] and ()
-
+- type `code` with backticks
 
 This is **still** a test of how **Git** works
+
